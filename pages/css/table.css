@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    border-color: chartreuse;
+}
+.head_row{
+    background-color: darkgoldenrod;
+}
+.head_row:hover{
+    background-color: darkred;
+}
+.rows{
+    background-color: deepskyblue;
+}
+.rows:nth-child(even){
+    background-color: fuchsia;
+    text-align: center;
+}
+.rows:hover{
+    background-color: goldenrod;
+
+}
+.heading{
+    text-shadow: 2px 2px 5px blue;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+    

@@ -1,0 +1,29 @@
+.demo{
+    background-color: aquamarine;
+}
+.mydiv{
+    background-color: blueviolet;
+    width: 100%;
+    height: 200px;
+}
+p{
+    color:brown;
+}
+h3{
+    font-size: 30px;
+    font-family: monospace;
+    color: crimson;
+}
+.p1{
+    color: darkgreen;
+}
+#div1{
+    background-color: darkorange;
+
+}
+div{
+    background-color: deeppink;
+}
+.demodiv{
+    background-color: firebrick;
+}
